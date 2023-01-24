@@ -23,7 +23,7 @@ def init():
     return "Addon is alive."
 
 @app.route("/health")
-def init():
+def health():
     return "200 OK"
 
 
