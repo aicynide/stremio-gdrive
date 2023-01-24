@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 MANIFEST = {
-    "id": "ssnjr.stremio.googledrive",
+    "id": "ssnjr.stremio.googledrive.2023.3",
     "version": "1.1.0",
-    "name": "GDrive",
+    "name": "GDrive III",
     "description": "This plugin fetches content from goolag drive.",
     "logo": "https://fonts.gstatic.com/s/i/productlogos/drive_2020q4/v8/web-512dp/logo_drive_2020q4_color_1x_web_512dp.png",
     "resources": ["stream"],
