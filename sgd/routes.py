@@ -22,6 +22,10 @@ MANIFEST = {
 def init():
     return "Addon is alive."
 
+@app.route("/health")
+def init():
+    return "200 OK"
+
 
 @app.route("/manifest.json")
 def addon_manifest():
